@@ -10813,8 +10813,8 @@ var totalResult = function totalResult(el) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\bortn\PhpstormProjects\Interview_task\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\bortn\PhpstormProjects\Interview_task\resources\scss\app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! Y:\Calculator\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! Y:\Calculator\resources\scss\app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
